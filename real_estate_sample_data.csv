@@ -1,0 +1,27 @@
+Agent,Date Listed,Area,List Price,Bedrooms,Baths,SqFt,Type,Pool,Sold
+Kelly,9/12/2007,S. County,249900,2,1.0,1101,Condo,False,False
+Randolph,9/3/2007,Central,149900,2,1.0,1234,Single Family,False,False
+Lang,2/26/2007,Central,239900,2,2.0,1248,Condo,False,False
+Adams,2/6/2007,Central,273500,2,2.0,1552,Single Family,True,True
+Hamilton,1/24/2007,Central,285000,2,1.0,2036,Single Family,False,True
+Randolph,4/24/2007,N. County,405000,2,3.0,2444,Single Family,True,True
+Daily,2/25/2007,S. County,204900,3,2.5,1630,Single Family,False,True
+Chung,3/22/2007,S. County,205000,3,2.5,2001,Single Family,True,False
+Romero,8/26/2007,S. County,229500,3,2.0,1694,Single Family,False,False
+Bennet,6/26/2007,S. County,229900,3,2.5,1580,Single Family,False,False
+Shasta,7/22/2007,S. County,238000,3,2.5,2300,Single Family,True,False
+Peterson,4/25/2007,Central,240000,3,2.5,1595,Condo,False,True
+Jenkins,5/26/2007,S. County,249000,3,2.5,1730,Condo,False,False
+Shasta,8/8/2007,S. County,249900,3,2.0,2050,Single Family,False,True
+Daily,1/29/2007,S. County,289000,3,2.0,1627,Single Family,False,True
+Lang,10/18/2007,S. County,360000,3,2.5,2330,Single Family,False,False
+Adams,10/9/2007,Central,199000,3,2.5,1510,Condo,False,False
+Shasta,3/24/2007,Central,215000,3,1.75,2157,Single Family,True,True
+Chung,7/8/2007,Central,236900,3,2.0,1700,Single Family,False,False
+Randolph,2/7/2007,Central,242500,3,2.5,1902,Single Family,False,True
+Romero,5/1/2007,Central,250000,3,2.0,2066,Single Family,False,False
+Shasta,5/17/2007,Central,319000,3,2.5,2586,Condo,False,True
+Adams,1/15/2007,Central,325000,3,2.5,1752,Single Family,False,True
+Shasta,5/19/2007,Central,335000,3,2.5,2000,Single Family,True,True
+Kelly,10/11/2007,Central,345000,3,2.0,2694,Single Family,False,False
+Kelly,2/10/2007,Central,350000,3,2.0,2275,Single Family,True,False
